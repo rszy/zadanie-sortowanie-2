@@ -5,7 +5,8 @@ import java.util.List;
 public class Sorter {
 
 
-    public void sort(List<Album> albums, SortBy title, SortOrder asc) {
+    public void sort(List<Album> albums, SortBy sortBy, SortOrder sortOrder) {
+
 
     }
 }
