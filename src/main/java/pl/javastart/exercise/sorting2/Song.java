@@ -10,7 +10,11 @@ public class Song {
         this.duration = duration;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
+    public String getTitle() {
+        return title;
+    }
+
+    public int getDuration() {
+        return duration;
     }
 }

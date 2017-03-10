@@ -24,4 +24,12 @@ public class Album {
     public List<Song> getSongs() {
         return songs;
     }
+
+    public String getArtist() {
+        return artist;
+    }
+
+    public Date getReleaseDate() {
+        return releaseDate;
+    }
 }
